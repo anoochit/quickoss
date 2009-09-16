@@ -17,6 +17,7 @@ The category of the disc include:
    * Azureus 
    * FileZilla 
    * RSSOwl
+   * Sunbird
 
   * *Graphics*
     * GIMP
