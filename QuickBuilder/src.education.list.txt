@@ -1,4 +1,4 @@
-Moodle
-A-Tutor
-Celestia
-Stellarium
+Moodle|1.9.5|http://download.moodle.org/stable19/moodle-weekly-19.zip
+ATutor|1.6.3|http://downloads.sourceforge.net/project/atutor/ATutor/ATutor%201.6.3/ATutor-1.6.3.tar.gz
+Celestia|1.6.0|http://downloads.sourceforge.net/project/celestia/Celestia-win32-bin/1.6.0/celestia-win32-1.6.0.exe
+Stellarium|0.10.2|http://downloads.sourceforge.net/project/stellarium/Stellarium-win32/0.10.2/stellarium-0.10.2.exe

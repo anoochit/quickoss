@@ -1,6 +1,6 @@
-SongBird
-VLC
-Audacity
-LMM
-Icecast
-SHOUTcast
+SongBird||
+VLC||
+Audacity||
+LMM||
+Icecast||
+SHOUTcast||
