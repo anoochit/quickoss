@@ -88,7 +88,7 @@ The category of the disc include:
     * Joomla
     * MoveableType
     * Concrete5
-    * Zikula
+    * ~~Zikula~~
 
 
   * *Game*
