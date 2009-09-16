@@ -1,8 +1,8 @@
-FireFox
-FireFox-Add-on
-Flock
-Thunderbird
-Pidgin
-Azureus
-FileZilla
-RSSOwl
+FireFox||
+FireFox-Add-on||
+Flock||
+Thunderbird||
+Pidgin||
+Azureus||
+FileZilla||
+RSSOwl||

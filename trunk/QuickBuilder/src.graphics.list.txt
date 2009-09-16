@@ -1,4 +1,4 @@
-GIMP
-Inkscape
-Scribus
-Blender
+GIMP||
+Inkscape||
+Scribus||
+Blender||

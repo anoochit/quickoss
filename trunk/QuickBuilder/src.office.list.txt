@@ -1,7 +1,8 @@
-OpenOffice.org
-Dia
-PDFCreator
-SumatraPDF
-FreeMind
-GanttProject
-GnuCash
+OpenOffice.org||
+Dia||
+PDFCreator||
+SumatraPDF||
+FreeMind||
+GanttProject||
+OpenProj||
+GnuCash||

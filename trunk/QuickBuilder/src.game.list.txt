@@ -1,6 +1,6 @@
-TheBattleforWesnoth
-Enigma
-Neverball
-SokobanYASC
-SuperTux
-SecretOfMayo
+TheBattleforWesnoth||
+Enigma||
+Neverball||
+SokobanYASC||
+SuperTux||
+SecretOfMayo||

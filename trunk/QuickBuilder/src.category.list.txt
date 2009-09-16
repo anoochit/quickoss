@@ -1,0 +1,9 @@
+development
+education
+game
+graphics
+internet
+multimedia
+office
+tools
+web
