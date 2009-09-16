@@ -1,8 +1,8 @@
 FireFox|3.5.3|http://download.mozilla.org/?product=firefox-3.5.3&os=win&lang=en-US
-Flock|2.5.2|http://downloads.flock.com/index.php?utm_source=flockcom&utm_medium=versionspage&utm_campaign=flockcom002&utm_content=win_language&os=win&lang=en-US&product=flock-2.5.2
+Flock|2.5.2|http://ftp.osuosl.org/pub/flock/releases/2.5.2/flock-2.5.2.en-US.win32.exe
 Thunderbird|2.0.0.23|http://download.mozilla.org/?product=thunderbird-2.0.0.23&os=win&lang=en-US
 Pidgin|2.6.2|http://downloads.sourceforge.net/project/pidgin/Pidgin/2.6.2/pidgin-2.6.2.exe
 Azureus|4.2.0.8|http://downloads.sourceforge.net/project/azureus/vuze/vuze-4.2.0.8/Vuze_4.2.0.8a_windows.exe
-FileZilla|3.2.7.1|https://www.ohloh.net/projects/filezilla/download?filename=FileZilla_3.2.7.1_win32-setup.exe
+FileZilla|3.2.3.1|http://kent.dl.sourceforge.net/sourceforge/filezilla/FileZilla_3.2.3.1_win32-setup.exe
 RSSOwl|2.0-M9|http://downloads.sourceforge.net/project/rssowl/rssowl%202/2.0%20Milestone%209/rssowl-2.0-M9.win32.zip
 Sunbird|0.9|http://download.mozilla.org/?product=sunbird-0.9&os=win&lang=en-US
