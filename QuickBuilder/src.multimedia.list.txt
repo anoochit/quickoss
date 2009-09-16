@@ -1,6 +1,5 @@
-SongBird||
-VLC||
-Audacity||
-LMM||
-Icecast||
-SHOUTcast||
+SongBird|1.2.0|http://download.songbirdnest.com/installer/windows/i686-msvc8/Songbird_1.2.0-1146_windows-i686-msvc8.exe
+VLC|1.0.1|http://videolan.cdn.cacheboy.net/vlc/1.0.1/win32/vlc-1.0.1-win32.exe
+Audacity|1.2.6|http://downloads.sourceforge.net/project/audacity/audacity/1.2.6/audacity-win-1.2.6.exe
+Avidemux|2.5.1|http://downloads.sourceforge.net/project/avidemux/avidemux/2.5.1/avidemux_2.5.1_win32.exe?use_mirror=biznetnetworks
+Icecast|2.3.2|http://downloads.xiph.org/releases/icecast/icecast2_win32_2.3.2_setup.exe

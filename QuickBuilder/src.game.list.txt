@@ -1,6 +1,6 @@
-TheBattleforWesnoth||
-Enigma||
-Neverball||
-SokobanYASC||
-SuperTux||
-SecretOfMayo||
+TheBattleforWesnoth|1.6.5|http://downloads.sourceforge.net/project/wesnoth/wesnoth-1.6/wesnoth-1.6.5/wesnoth-1.6.5-win32.exe
+Enigma|1.01|http://download.berlios.de/enigma-game/Enigma-1.01.exe
+Neverball|1.5.3|http://neverball.org/neverball-1.5.3-setup.exe
+SokobanYASC|1.4.9.7|http://downloads.sourceforge.net/project/sokobanyasc/sokobanyasc/Click_me_to_install_YASC_1_497.exe
+SuperTux|0.3.1|http://download.berlios.de/supertux/supertux-0.3.1-win32.exe
+SecretMaryoChronicles|1.9|http://downloads.sourceforge.net/project/smclone/Secret%20Maryo%20Chronicles/1.9/SMC_1.9_win32.exe

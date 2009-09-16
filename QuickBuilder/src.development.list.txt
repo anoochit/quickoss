@@ -1,8 +1,7 @@
-EclipseJDT|galileo|http://www.mirror.in.th./osarchive/eclipse/technology/epp/downloads/release/galileo/R/eclipse-java-galileo-win32.zip
-EclipsePDT|galileo|http://www.mirror.in.th./osarchive/eclipse/technology/epp/downloads/release/galileo/R/eclipse-cpp-galileo-win32.zip
+Eclipse-JDT|galileo|http://www.mirror.in.th./osarchive/eclipse/technology/epp/downloads/release/galileo/R/eclipse-java-galileo-win32.zip
+Eclipse-PDT|galileo|http://www.mirror.in.th./osarchive/eclipse/technology/epp/downloads/release/galileo/R/eclipse-cpp-galileo-win32.zip
 GTK+|2.16.6|http://ftp.gnome.org/pub/gnome/binaries/win32/gtk+/2.16/gtk+_2.16.6-1_win32.zip
 Python|2.6.2|http://www.python.org/ftp/python/2.6.2/python-2.6.2.msi
 PythonGTK|2.12.1-3|http://ftp.gnome.org/pub/GNOME/binaries/win32/pygtk/2.12/pygtk-2.12.1-3.win32-py2.6.exe
 XAMPP|1.7.2|http://downloads.sourceforge.net/project/xampp/XAMPP%20Windows/1.7.2/xampp-win32-1.7.2.exe
 Glade|3.6|http://ftp.gnome.org/pub/GNOME/binaries/win32/glade3/3.6/glade3-3.6.7-with-GTK+.exe
-

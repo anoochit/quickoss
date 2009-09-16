@@ -1,8 +1,8 @@
-OpenOffice.org||
-Dia||
-PDFCreator||
-SumatraPDF||
-FreeMind||
-GanttProject||
-OpenProj||
-GnuCash||
+OpenOffice.org|3.0.1|http://ftp.cse.yzu.edu.tw/pub/openoffice/stable/3.0.1/OOo_3.0.1_Win32Intel_install_wJRE_en-US.exe
+Dia|0.97|http://downloads.sourceforge.net/project/dia-installer/dia-win32-installer/0.97/dia-setup-0.97.exe
+PDFCreator|0.9.8|http://downloads.sourceforge.net/project/pdfcreator/PDFCreator/PDFCreator%200.9.8/PDFCreator-0_9_8_setup.exe?use_mirror=biznetnetworks
+SumatraPDF|0.9.4|http://kjkpub.s3.amazonaws.com/sumatrapdf/rel/SumatraPDF-0.9.4-install.exe
+FreeMind|0.8.1|http://downloads.sourceforge.net/project/freemind/freemind/0.8.1/FreeMind-Windows-Installer-0.8.1-max.exe
+GanttProject|2.0.10|http://ganttproject.googlecode.com/files/ganttproject-2.0.10.exe
+OpenProj|1.3.1|http://downloads.sourceforge.net/project/openproj/OpenProj%20Binaries/1.3.1/openproj-1.3.1.zip
+GnuCash|2.3.5|http://downloads.sourceforge.net/project/gnucash/gnucash%20%28unstable%29/2.3.5/gnucash-2.3.5-setup.exe
