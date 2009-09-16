@@ -31,7 +31,7 @@ The category of the disc include:
     * Audacity 
     * LMM
     * Icecast 
-    * SHOUTcast 
+    * ~~SHOUTcast~~
 
   * *Tools*
     * Infrarecorder
