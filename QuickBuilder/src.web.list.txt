@@ -6,3 +6,7 @@ Drupal|6.13|http://ftp.drupal.org/files/projects/drupal-6.13.tar.gz
 Joomla|1.5.14|http://joomlacode.org/gf/download/frsrelease/10785/42655/Joomla_1.5.14-Stable-Full_Package.zip
 Concrete5|5.3.2|http://downloads.sourceforge.net/project/concretecms/concrete5/5.3.2/concrete5.3.2.zip
 MoveableType|4.31|http://www.movabletype.org/downloads/stable/MTOS-4.31-en.zip
+OpenBiblio|0.6.1|http://biznetnetworks.dl.sourceforge.net/project/obiblio/OpenBiblio/0.6.1/openbiblio-0.6.1.zip
+Magento|1.3.2.3|http://dp.thaiopensource.org/media/magento-1.3.2.3.zip
+Elgg|1.6.1|http://elgg.org/download/elgg1.6.1.tar.gz
+Vtiger|5.1.0|http://sourceforge.net/projects/vtigercrm/files/vtiger%20CRM%205.1.0/vtigercrm-5.1.0.tar.gz
