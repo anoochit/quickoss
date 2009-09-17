@@ -6,3 +6,4 @@ Azureus|4.2.0.8|http://downloads.sourceforge.net/project/azureus/vuze/vuze-4.2.0
 FileZilla|3.2.3.1|http://kent.dl.sourceforge.net/sourceforge/filezilla/FileZilla_3.2.3.1_win32-setup.exe
 RSSOwl|2.0-M9|http://downloads.sourceforge.net/project/rssowl/rssowl%202/2.0%20Milestone%209/rssowl-2.0-M9.win32.zip
 Sunbird|0.9|http://download.mozilla.org/?product=sunbird-0.9&os=win&lang=en-US
+FreeDownloadManager|3.0 build 848|http://files2.freedownloadmanager.org/fdminst3.exe
