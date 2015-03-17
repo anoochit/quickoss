@@ -1,0 +1,1 @@
+Quick Open Source Disc is collection of open source software for Windows and Linux. This project inspired by Chantra and The Open Disc proejct so this project will collect the most popular open source software group in categories; Internet, Graphics, Multimedia, Tools, Office, Development, Education, Web and Game.
